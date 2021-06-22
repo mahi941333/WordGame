@@ -63,7 +63,7 @@
   (major1) == 0 && (major2) <  29 || \
   (major1) == 0 && (major2) == 29 && (minor) <= 2)
 
-#define CURRENT_COMPONENT_ID "WordGame-0.1.0.0"
+#define CURRENT_COMPONENT_ID "WordGame-0.1.0.0-K9JWP6iKWZ91yKGaieHeZa"
 
-#define CURRENT_PACKAGE_KEY "WordGame-0.1.0.0"
+#define CURRENT_PACKAGE_KEY "WordGame-0.1.0.0-K9JWP6iKWZ91yKGaieHeZa"
 
